@@ -47,10 +47,6 @@ Visit my **[Portfolio](https://kishan-unjia.netlify.app/)** to see detailed case
 - 🚀 Always learning and staying updated with new technologies
 - 🤝 Open to collaboration and mentoring
 
-## 📈 Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kishanunjia&show_icons=true&theme=dark)
-
 ## 🔗 Connect With Me
 
 - **LinkedIn**: [linkedin.com/in/kishan-unjia-39277b6b](https://www.linkedin.com/in/kishan-unjia-39277b6b/)
