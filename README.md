@@ -8,6 +8,22 @@
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.in/u/kishanunjia)
 
 
+<a href="https://www.linkedin.com/in/kishan-unjia-39277b6b/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://kishan-unjia.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+
+<a href="https://www.fiverr.com/kishanunjia" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr">
+</a>
+
+<a href="https://www.freelancer.in/u/kishanunjia" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer">
+</a>
+
 ## 🎯 About Me
 
 Hello! I'm Kishan Unjia, a dedicated Full Stack Developer with specialized expertise in WordPress plugin creation, WordPress speed optimization, Next.js development, and Shopify store optimization. With a strong foundation in computer science and several years of professional experience, I bring expertise in modern frameworks and technologies to create innovative solutions.
