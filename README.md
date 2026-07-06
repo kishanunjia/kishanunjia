@@ -8,6 +8,29 @@
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.in/u/kishanunjia)
 
 
+## 💼 Hire Kishan Unjia
+
+Looking for an experienced **WordPress Developer**, **Full Stack Developer**, or **WooCommerce Expert**? I specialize in custom WordPress development, Elementor, WooCommerce, plugin development, API integrations, Shopify, Next.js, and website performance optimization.
+
+### ⭐ Hire Kishan Unjia on Fiverr
+
+Get professional WordPress, WooCommerce, Elementor, custom plugin development, bug fixing, website speed optimization, and AI automation services.
+
+<a href="https://www.fiverr.com/kishanunjia">
+  <img src="https://img.shields.io/badge/Hire%20Kishan%20Unjia%20on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire Kishan Unjia on Fiverr">
+</a>
+
+---
+
+### ⭐ Hire Kishan Unjia on Freelancer
+
+Need a reliable Full Stack Developer for long-term projects? I provide custom web development, WordPress solutions, WooCommerce customization, Laravel, PHP, React, Next.js, Shopify, and API integration services.
+
+<a href="https://www.freelancer.in/u/kishanunjia">
+  <img src="https://img.shields.io/badge/Hire%20Kishan%20Unjia%20on-Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Hire Kishan Unjia on Freelancer">
+</a>
+
+
 ## 🎯 About Me
 
 Hello! I'm Kishan Unjia, a dedicated Full Stack Developer with specialized expertise in WordPress plugin creation, WordPress speed optimization, Next.js development, and Shopify store optimization. With a strong foundation in computer science and several years of professional experience, I bring expertise in modern frameworks and technologies to create innovative solutions.
