@@ -3,7 +3,7 @@
 **Full Stack Developer | WordPress Plugin Specialist | Next.js Expert | Shopify Expert**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-unjia-39277b6b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)]([https://kishanunjia.wordpress-optimization.com/](https://kishanunjia.wordpress-optimization.com/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://www.linkedin.com/in/kishan-unjia-39277b6b/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/kishanunjia)
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.in/u/kishanunjia)
 [![WordPress Speed Portfolio](https://img.shields.io/badge/WordPress-Speed%20Portfolio-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://kishanunjia.github.io/wordpress-speed-optimization/)
